@@ -1,11 +1,17 @@
 // 1. Dichiarazione di variabili
 // Crea una variabile chiamata name e assegnale il tuo nome.
 // Stampa il valore di nome nella console.
+let name = "Matteo";
+console.log(name);
 
 // 2. Tipi primitivi
-// Crea tre variabili chiamate number, text e bool e assegna rispettivamente
+// Crea tre variabili chiamate numbSer, text e bool e assegna rispettivamente
 // un numero, una stringa e un valore booleano.
 // Stampa tutti i valori nella console.
+let numbSer = 38;
+let text = "Abracadabra";
+let bool = 10 < 38;
+console.log(numbSer, text, bool);
 
 // 3. Sostituisci null nelle righe sottostanti utilizzando operazioni con le stringhe
 // e le variabili sopra in modo da stampare correttamente
