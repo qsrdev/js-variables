@@ -10,7 +10,7 @@ console.log(name);
 // Stampa tutti i valori nella console.
 let numbSer = 38;
 let text = "Abracadabra";
-let bool = 10 < 38;
+let bool = 38 < 10;
 console.log(numbSer, text, bool);
 
 // 3. Sostituisci null nelle righe sottostanti utilizzando operazioni con le stringhe
