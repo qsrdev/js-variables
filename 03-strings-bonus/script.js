@@ -11,6 +11,8 @@ console.log(cityIndex); // Output: 4
 
 // 2. Sottostringhe
 // Stampa la sottostringa "York" dalla variabile city
+// la risposta corretta sarebbe stato mettere la variabile cityindex al posto del numeroi
+// se avessimo ricevuto la lettera dal server potrei avere avuto problemi
 const citySubstring = city.substring(4);
 console.log(citySubstring); // Output: "York"
 
